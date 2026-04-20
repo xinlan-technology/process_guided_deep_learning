@@ -1,4 +1,4 @@
-# Process-Guided Deep Learning for Lake Water Temperature
+# Process-guided deep learning for lake water temperature
 
 This repository contains the code used to predict daily water temperature profiles (0-20 m) in Lake Mendota using deep learning models with physical constraints.
 
