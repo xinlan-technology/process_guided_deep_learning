@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Process-guided deep learning for lake water temperature prediction"
+authors:
+  - family-names: "Lan"
+    given-names: "Xin"
+    affiliation: "Michigan State University"
+  - family-names: "Luo"
+    given-names: "Lifeng"
+    affiliation: "Michigan State University"
+  - family-names: "Deng"
+    given-names: "Yue"
+    affiliation: "Michigan State University"
+  - family-names: "Tan"
+    given-names: "Pang-Ning"
+    affiliation: "Michigan State University"
+  - family-names: "Zheng"
+    given-names: "Zihan"
+    affiliation: "University of Illinois at Urbana-Champaign"
+version: "1.0.0"
+date-released: "2026-04-25"
+url: "https://github.com/xinlan-technology/process_guided_deep_learning"
+license: MIT
